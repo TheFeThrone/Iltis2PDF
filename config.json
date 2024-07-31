@@ -1,0 +1,9 @@
+{
+    "stop_flag": false,
+    "logged_flag": false,
+    "original_iltis_url": "",
+    "default_moodle_url": "https://moodle.ruhr-uni-bochum.de/login",
+    "default_username": "username",
+    "default_iltis_url": "redirect link from moodle",
+    "default_filter_string": ""
+}
